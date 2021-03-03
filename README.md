@@ -1,3 +1,7 @@
+## What's this?
+
+These codes literally to calculate your exam and a simple calculator.
+
 ## Empty Information(Kappa)
 
 * I used code::blocks(easy way for short code)
